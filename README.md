@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 - 🌱 I’m currently learning **Artificial intelligence & Machine learning**
 
