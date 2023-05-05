@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img src=""C:\Users\dogra\OneDrive\Desktop\68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270.webp"/>
+  <img src="C:\Users\dogra\OneDrive\Desktop\68747470733a2f2f692e67697068792e636f6d2f6d656469612f7132313747556e664b416d4a6c46636a42582f67697068792e77656270.webp"/>
 </p>
 
 - 🌱 I’m currently learning **Artificial intelligence & Machine learning**
