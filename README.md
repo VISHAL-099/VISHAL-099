@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vishal</h1>
-<h3 align="center">🚀 Full Stack Developer | System Engineer @ Fore Solutions | AI/ML Enthusiast | DevOps Explorer</h3>
+<h3 align="center">🚀 System Engineer | Full Stack Developer | AI/ML Enthusiast | DevOps Explorer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Developer at work" width="600"/>
