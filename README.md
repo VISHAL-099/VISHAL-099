@@ -1,60 +1,90 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Vishal</h1>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Developer at work" width="600"/>
 </p>
 
----
-
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
-- 💬 Ask me about **Web Development, Web Design, Graphic Design, and Python (Django/Flask)**
-- 📫 How to reach me: **dv137705@gmail.com**
-- 📄 Know about my experiences [Resume](#) <!-- Add link to your resume if available -->
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VISHAL-099&label=Profile%20views&color=0e75b6&style=flat" alt="VISHAL-099" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/dgr_vishal9822" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://github.com/VISHAL-099?tab=followers">
+    <img src="https://img.shields.io/github/followers/VISHAL-099?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="mailto:dv137705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dv137705@gmail.com-blue?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/vishal-dogra-7814a9250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VISHAL-099&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+### 🧠 Currently Learning:
+- Artificial Intelligence & Machine Learning (AI/ML)
+- Advanced Full Stack Web Development with Django & React
+
+### 💬 Ask me about:
+- Web Dev (Django, Flask, HTML/CSS, JS)
+- Graphic Designing (Canva, Photoshop)
+- Python Projects, APIs, & Database Integration
+
+---
+
+### 📂 Projects Showcase
+> A few projects I'm proud of:
+
+- 🧠 **AI Attendance System** – Face Recognition powered attendance management  
+- 🛒 **E-commerce Store** – Built with Django + Shopify integration  
+- 🛠 **ID Card Generator** – Automated system for official use (NIELIT Project)  
+- 💻 **Web Terminal (MobaXterm Alternative)** – PyQt5-based SSH Client
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+  <img title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40">
+  <img title="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40">
+  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
+  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
+  <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40">
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+  <img title="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40">
+  <img title="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40">
+  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40">
+  <img title="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40">
+  <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHAL-099&show_icons=true&theme=radical" alt="VISHAL-099's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL-099&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHAL-099&show_icons=true&theme=radical" alt="Vishal's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL-099&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-<h3 align="left">Achievements:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VISHAL-099&theme=onedark" alt="Trophies" /></a>
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHAL-099&theme=onedark&column=7" alt="trophies"/>
 </p>
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/vishal-dogra-7814a9250" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"></a>
+  <a href="https://instagram.com/dgr_vishal9822" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" alt="Twitter"></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I debug code better at midnight than during the day! 🌙😄  
+> Also, I enjoy designing things as much as building them!
+
