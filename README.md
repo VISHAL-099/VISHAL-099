@@ -77,19 +77,19 @@
 
 ---
 
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHAL-099&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VISHAL-099&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL-099&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHAL-099&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL-099&layout=compact&theme=default" />
 </p>
+
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VISHAL-099&theme=onedark&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VISHAL-099&theme=flat" />
 </p>
+
 
 ---
 
