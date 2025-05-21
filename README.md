@@ -98,6 +98,9 @@
   <a href="https://linkedin.com/in/vishal-dogra-7814a9250" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"></a>
   <a href="https://instagram.com/dgr_vishal9822" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"></a>
   <a href="mailto:dv137705@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" alt="Gmail"></a>
+  <a href="[https://twitter.com/your-twitter](https://x.com/vishal_dv137705/)" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" alt="Twitter">
+  </a>
 </p>
 
 ---
