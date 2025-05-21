@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as a **System Engineer** at [Fore Solutions Private Limited]([#](https://www.foresolutions.in/))
+- 🔭 Currently working as a **System Engineer** at [Fore Solutions Private Limited]([https://www.foresolutions.in/])
 - ⚙️ Managing & Deploying AI Models on **NVIDIA DGX Server**
 - 💻 Exploring latest **DevOps tools** like Docker, Kubernetes, CI/CD pipelines
 - 🌱 Learning cutting-edge tech in **AI/ML, Cloud Computing, and Full Stack Development**
