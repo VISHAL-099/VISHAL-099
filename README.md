@@ -2,8 +2,9 @@
 <h3 align="center">🚀 System Engineer | Full Stack Developer | AI/ML Enthusiast | DevOps Explorer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-image.jpg" alt="Developer at work" width="600"/>
+  <img src="https://i.postimg.cc/cLfMSYGK/2794209.jpg" alt="Vishal at work" width="600" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/VISHAL-099">
